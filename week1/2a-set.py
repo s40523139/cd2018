@@ -27,4 +27,4 @@ for i in range(len(lines)) :
                 #顯示該組第一位
             else:
                 print(groups[i])
-            #不將上兩行打入，將只顯示該組第一位同學
+                #不將上兩行打入，將只顯示該組第一位同學
